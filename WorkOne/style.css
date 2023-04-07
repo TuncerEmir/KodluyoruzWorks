@@ -1,0 +1,33 @@
+body {
+    font-family: 'Alkatra', cursive;
+    text-align: center;
+}
+.header{
+    padding: 10px;
+    margin: 10px;
+    background-color: bisque;
+}
+.home {
+    min-height: 540px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(175, 223, 223);
+}
+
+.footer {
+    padding: 10px;
+    margin: 10px;
+    background-color: bisque;
+}
+
+p{
+    text-align: justify;
+}
+
+#gitlink{
+    text-align: center;
+}
+
+.navbar a {
+    margin-right: 10px;
+  }
