@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.googleLogo {
+    width: 100%;
+    text-align: center;
+}
+
+.container {
+    margin: 2px 100px;
+}
+
+.container .search {
+    background-color: #EEEEEE;
+    display: block;
+    text-align: center;
+}
+
+.container .linkOne {
+    padding: 15px;
+    text-align: center;
+    margin: 2px 1px;
+    min-height: 55px;
+    width: 34.80%;
+    background-color: #7EE5DA;
+    float: left;
+}
+
+.container .linkTwo{
+    text-align: center;
+    margin: 2px 1px;
+    background-color: #70CCC2;
+    min-height: 85px;
+    width: 22.5%;
+    float: left;
+}
+
+.container .link .linkTwo a{
+    font-size: 14px;
+}
+
+.container .linkThree {
+    text-align: center;
+    margin: 2px 1px;
+    float: left;
+    width: 40%;
+    min-height: 85px;
+    background-color: #62B3AA;
+}
+
+.footer {
+    clear: both;
+    text-align: center;
+    font-size: 14px;
+}
