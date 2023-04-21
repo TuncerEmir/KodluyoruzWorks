@@ -1,0 +1,25 @@
+.content {
+  overflow-x: hidden;
+}
+
+.productsCards {
+  width: 18rem;
+}
+
+.jumbotronColor {
+   background-color: #E9ECEF; 
+}
+
+.aboutCards {
+  width: 100%;
+}
+
+.menu a {
+  text-decoration: none;
+  color: darkgray;
+  padding: 5px;
+}
+
+.menu a:hover {
+  color: white;
+}
