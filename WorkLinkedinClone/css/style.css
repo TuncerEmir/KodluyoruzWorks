@@ -1,0 +1,346 @@
+#color-foto {
+  fill: #70b5f9;
+}
+
+#color-video {
+  fill: #7fc15e;
+}
+
+#color-etkinlik {
+  fill: #e7a33e;
+}
+
+#color-yazi {
+  fill: #f5987e;
+}
+
+.color5f5f5f {
+  color: #5f5f5f;
+}
+
+.colorBlack {
+  color: black;
+}
+
+.width19rem {
+  width: 19rem;
+}
+
+.w50h50borderradius50 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.borderradius50 {
+  border-radius: 50px;
+}
+
+.fontSize14 {
+  font-size: 14px;
+}
+
+.rightSectionFirstPanelFooter {
+  font-size: 14px;
+  color: #0a66c2;
+}
+
+.rightSectionSecondPanelTitle {
+  font-weight: lighter;
+  font-size: 13px;
+  color: #5f5f5f;
+}
+
+.rightSectionSecondPanelFooter {
+  color: #0a66c2;
+  font-size: 15px;
+  margin-top: -25px;
+}
+
+.mt10 {
+  margin-top: 10px;
+}
+
+.navbarLogoLinkedin i {
+  color: #0a66c2;
+  font-size: 2.4rem;
+}
+
+.navbarLogoHome i {
+  color: black;
+}
+
+.imageNavbarProfile {
+  width: 25px;
+  height: 25px;
+}
+
+.cardHeaderFont {
+  font-size: 12px;
+}
+
+.hashtagFont {
+  font-size: 13px;
+  color: #5f5f5f;
+}
+
+.plusSymbol {
+  font-size: 23px;
+  color: #5f5f5f;
+}
+
+.leftSection .card {
+  width: 15rem;
+}
+
+.stickyTop {
+position: sticky; 
+top: 4rem; 
+overflow: visible;
+}
+
+.leftSection .cardEnYeni {
+  top: 4rem;
+}
+
+.leftSection .profileBgSection {
+  text-align: center;
+  background-image: url(../İmages/3.jpg);
+  height: 53px;
+  margin-bottom: 27px;
+}
+
+.leftSection .profileSection {
+  width: 70px;
+  height: 70px;
+  border: solid 2px white;
+}
+
+.leftSection .profileName {
+  color: #212529;
+}
+
+.leftSection .profileStatement {
+  text-align: center;
+  font-size: 13px;
+  margin-bottom: 10px;
+  color: #5f5f5f;
+}
+
+.card-text .notification {
+  color: #0a66c2;
+}
+
+.cardTitle {
+  margin-bottom: -22px;
+  font-size: 18px;
+}
+
+.leftSecondCard {
+  width: 32px;
+  height: 32px;
+}
+
+.leftSecondCardBody {
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: -35px;
+  margin-left: 37px;
+}
+
+.leftSecondCardBodyLabel {
+  font-size: 13px;
+  font-weight: bold;
+  color: gray;
+  margin-left: 38px;
+}
+#leftSecondCardBodyLabelNotification {
+  color: #0a66c2;
+}
+
+.navbarbg {
+  height: 70px;
+  background-color: white;
+}
+
+input.searche {
+  height: 36px;
+  max-width: 500px;
+  background-color: #eef3f8;
+  border: 0;
+}
+
+input.searche::placeholder {
+  text-align: center;
+  padding-right: 60px;
+  font-size: 14px;
+  color: gray;
+  background-image: url(../assets/search-solid.svg);
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: 8%;
+}
+
+.body {
+  background-color: #f3f2ef;
+}
+
+.menutext {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+  margin-top: 5px;
+  font-weight: lighter;
+}
+.menutextHome {
+  color: black;
+}
+
+.menutext:hover {
+  color: black;
+}
+
+button.mediatext {
+  color: #5f5f5f;
+}
+
+button.mediatext:hover {
+  color: #5f5f5f;
+}
+
+.mediatext {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #5f5f5f;
+}
+
+i {
+  color: gray;
+  margin-top: 8px;
+}
+i:hover {
+  color: black;
+}
+
+input.content {
+  border-radius: 40px;
+  height: 45px;
+}
+input.content::placeholder {
+  font-weight: bolder;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 25px;
+  background-image: url(../assets/edit-regular.svg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+div.card {
+  border-radius: 10px;
+}
+
+.header {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+.view {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #5f5f5f;
+}
+
+.categories {
+  font-size: 13px;
+  font-weight: bold;
+  color: #0a66c2;
+}
+
+li {
+  font-size: 14px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+}
+
+.link {
+  font-size: 12px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #5f5f5f;
+}
+
+button.ref {
+  color: white;
+}
+
+button.ref:hover {
+  color: #5f5f5f;
+}
+
+.postphoto {
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+}
+
+.posttext {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  margin-left: 8px;
+}
+
+.mlMinus15 {
+  font-size: 12px;
+  margin-left: -15px;
+}
+
+.posttext .postTexta {
+  color: #212529;
+}
+
+.fontAppleSystem {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 15px;
+  color: black;
+}
+
+.fontAppleSystemLittle {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 13px;
+  color: #474747;
+}
+
+.fontSize1rem {
+  font-size: 1.2rem;
+}
+
+.messagingCss {
+  height: 50px;
+  position: -webkit-sticky;
+  border-radius: 5px;
+  margin-left: auto;
+  right: 15px;
+  width: 300px;
+}
+
+.messagingCssİmg {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.messagingFont {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
